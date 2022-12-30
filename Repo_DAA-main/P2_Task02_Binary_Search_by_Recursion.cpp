@@ -28,8 +28,7 @@ void search(int arr[],int low,int mid,int high,int key)
 }
 int main()
 {
-	cout<<"Binary Search by Recurssion"<<endl;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
+	cout<<"Binary Search by Recursion"<<endl;
 	int n,key,counter=0;
 	cout<<"Enter the number of element:";
 	cin>>n;

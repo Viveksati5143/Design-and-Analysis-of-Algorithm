@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
 	cout<<"Question 5"<<endl;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
 	int n=0;
 	int i=0,j=0,k=0;
 	

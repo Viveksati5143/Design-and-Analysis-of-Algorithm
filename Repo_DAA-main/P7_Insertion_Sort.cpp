@@ -5,7 +5,6 @@ int main()
 {
 	int n,shift,comp;
 	    cout<<"Question 7"<<endl;
-	    cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
 	    cout<<"Enter the size of array :";
 		cin>>n;
 		cout<<"Enter the elements of array:"<<endl;

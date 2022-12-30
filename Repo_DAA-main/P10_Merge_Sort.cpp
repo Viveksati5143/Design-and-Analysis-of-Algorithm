@@ -61,7 +61,6 @@ void mergesort(int arr[],int low,int high)
 int main()
 {
 	cout<<"Question 10"<<endl;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
 	 int n;
 	 cout<<"Enter the no. of terms:";
 	 cin>>n;

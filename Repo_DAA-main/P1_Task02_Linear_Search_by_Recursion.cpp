@@ -27,8 +27,7 @@ void search(int arr[],int n,int k)
 }
 int main()
 {
-	cout<<"Linear Search By Recurssion"<<endl;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
+	cout<<"Linear Search By Recursion"<<endl;
 	int n,key;
 	cout<<"Enter the number of element:";
 	cin>>n;

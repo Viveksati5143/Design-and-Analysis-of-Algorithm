@@ -7,7 +7,6 @@ void search(int arr[],int n, int key);
 int main()
 {
 	cout<<"Question 3"<<endl;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
 	int n=0,key;
 	cout<<"Enter the number of element:";
 	cin>>n;

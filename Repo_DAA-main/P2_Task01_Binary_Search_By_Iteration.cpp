@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
 	cout<<"Binary Search By Iterative"<<endl;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
 	int n,key,count=0;
 	cout<<"Enter the number of element of array:";
 	cin>>n;

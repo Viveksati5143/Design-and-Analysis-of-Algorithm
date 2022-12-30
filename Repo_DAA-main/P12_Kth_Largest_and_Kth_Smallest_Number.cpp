@@ -29,7 +29,6 @@ int main()
 {
 	int n,ch,k;
 	cout<<"Question 12"<<endl;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
 	cout<<"Enter the no. of terms:";
 	cin>>n;
 	int arr[n];

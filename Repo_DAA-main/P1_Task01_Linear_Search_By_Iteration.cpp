@@ -5,7 +5,6 @@ int main()
 {
 	cout<<"Linear Search By Iterative"<<endl;
 	int n,key,count;
-	cout<<"Avnendra Singh Chauhan_F_200211224"<<endl;
 	cout<<"Enter the number of element of array:";
 	cin>>n;
 	int arr[n];
